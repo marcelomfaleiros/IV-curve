@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>programa_cor/CIEmini.jpg</file>
+  </qresource>
+</RCC>
